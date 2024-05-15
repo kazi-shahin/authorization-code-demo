@@ -1,0 +1,2 @@
+#!/bin/bash
+xdg-mime uninstall /usr/share/mime/packages/oauthdemo-mime.xml

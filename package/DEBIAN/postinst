@@ -1,0 +1,4 @@
+#!/bin/bash
+update-mime-database /usr/share/mime
+chmod +x /usr/bin/oauthdemo
+chmod -R 755 /usr/lib/oauthdemo/javafx

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=OAuth Demo
+Exec=/usr/bin/oauthdemo %u
+Icon=yourapp
+Terminal=false
+Categories=Utility;
+MimeType=x-scheme-handler/oauthdemo;

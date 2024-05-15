@@ -1,0 +1,5 @@
+#!/bin/bash
+# Adjust with the actual path to the JavaFX lib directory
+JAVAFX_LIB_PATH="/usr/lib/oauthdemo/javafx"
+
+java --module-path $JAVAFX_LIB_PATH --add-modules javafx.controls,javafx.fxml -jar /usr/lib/oauthdemo/OAuthDemo-1.0-SNAPSHOT-jar-with-dependencies.jar "$1"
